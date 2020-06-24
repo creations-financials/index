@@ -18,11 +18,14 @@ https://portalv3.macincloud.com/
 
 #### Paperspace
 
-https://???
+https://paperspace.com
 
-| Subscription Type | Costs | Period  |
-|-------------------|-------|---------|
-| ???               | $??   | Monthly | 
+| Subscription Type       | Costs | Period  | Units | Total |
+|-------------------------|-------|---------|-------|-------|
+| Gradient 0              | $5    | Monthly | 1     | $5    |
+| PSVM: Air hourly: 50 GB | $0.07 | Hourly  | ?     | $?    |
+| Snapshot: 50 GB         | $1    | Monthly | 1     | $1    |   
+| Public IP               | $3    | Monthly | 1     | $3    |
 
 ### Linux
 
