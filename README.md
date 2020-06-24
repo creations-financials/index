@@ -6,11 +6,23 @@ Index
 
 ### Apple Mac OS
 
+### Macincloud
+
 
 ### Windows OS
 
+#### Paperspace
+
+https://???
+
+| Subscription Type | Costs | Period  |
+|-------------------|-------|---------|
+| ???               | $??   | Monthly | 
 
 ### Linux
+
+### Linux Academy
+
 
 ## Application as a Service (AaaS)
 
