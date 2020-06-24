@@ -69,11 +69,13 @@ https://tool.animaker.com/
 |-------------------|-------|---------|-------|-------|
 | Free              | $0    | Monthly | 1     | $0    |
 
-### Character Creator
+### Character Creator 3 Pipeline
 
+Character Creator 3 is a full character creation solution for designers to easily create, import and customize stylized or realistic looking character assets for use with iClone, Maya, Blender, Unreal Engine, Unity or any other 3D tools.
 
-| Subscription Type | Costs | Period  | Units | Total|
-|-------------------|-------|---------|-------|-------|
+| Purchase Type | Costs   | Period   | Units | Total   |
+|---------------|---------|----------|-------|---------|
+| One off       | $199.00 | Infinite | 1     | $199.00 |
 
 
 ### iClone
@@ -82,8 +84,8 @@ iClone is the fastest and most cost-effective 3D animation software in the indus
 
 https://www.reallusion.com/store/
 
-| Purchase Type     | Costs   | Period   | Units | Total   |
-|-------------------|---------|----------|-------|---------|
-| One off           | $199.00 | Infinite | 1     | $199.00 |
+| Purchase Type | Costs   | Period   | Units | Total   |
+|---------------|---------|----------|-------|---------|
+| One off       | $199.00 | Infinite | 1     | $199.00 |
 
 
