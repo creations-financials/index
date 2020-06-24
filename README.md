@@ -16,11 +16,15 @@ Index
 
 ### Frame.io
 
+https://app.frame.io/
+
 | Subscription Type | Costs | Period  |
 |-------------------|-------|---------|
 | Pro               | $19   | Monthly | 
 
 ### Biteable
+
+https://app.biteable.com/
 
 | Subscription Type | Costs | Period  |
 |-------------------|-------|---------|
