@@ -17,7 +17,8 @@ Index
 ### Frame.io
 
 | Subscription Type | Costs | Period  |
-| Pro               | $19    | Monthly | 
+|-------------------|-------|---------|
+| Pro               | $19   | Monthly | 
 
 ### Biteable
 
