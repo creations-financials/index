@@ -31,9 +31,11 @@ https://paperspace.com
 
 #### Linux Academy
 
+https://app.linuxacademy.com/
 
 | Subscription Type       | Costs | Period  | Units | Total |
 |-------------------------|-------|---------|-------|-------|
+| ?                       | $49   | Monthly | 1     | $49   |
 
 ## Application as a Service (AaaS)
 
@@ -69,5 +71,14 @@ https://tool.animaker.com/
 
 ### Character Creator
 
+
+| Subscription Type | Costs | Period  | Units | Total|
+|-------------------|-------|---------|-------|-------|
+
+
 ### iClone
+
+
+| Subscription Type | Costs | Period  | Units | Total|
+|-------------------|-------|---------|-------|-------|
 
