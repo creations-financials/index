@@ -22,6 +22,10 @@ Index
 
 ### Biteable
 
+| Subscription Type | Costs | Period  |
+|-------------------|-------|---------|
+| Starter           | $15   | Monthly | 
+
 ### Adobe Creative Suite
 
 #### Photoshop
