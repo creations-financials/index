@@ -50,6 +50,12 @@ https://app.biteable.com/
 
 ### Animaker Voice
 
+https://tool.animaker.com/
+
+| Subscription Type | Costs | Period  |
+|-------------------|-------|---------|
+| Free              | $0    | Monthly | 
+
 ### Character Creator
 
 ### iClone
