@@ -10,9 +10,9 @@ Index
 
 https://portalv3.macincloud.com/
 
-| Subscription Type            | Costs | Period |
-|------------------------------|-------|--------|
-| Managed Server Pay-As-You-Go | $1    | Hourly |
+| Subscription Type            | Costs | Period | Units | Total|
+|------------------------------|-------|--------|-------|------|
+| Managed Server Pay-As-You-Go | $1    | Hourly | 1     | $1   |
 
 ### Windows OS
 
@@ -38,17 +38,17 @@ https://paperspace.com
 
 https://app.frame.io/
 
-| Subscription Type | Costs | Period  |
-|-------------------|-------|---------|
-| Pro               | $19   | Monthly | 
+| Subscription Type | Costs | Period  | Units | Total|
+|-------------------|-------|---------|-------|-------|
+| Pro               | $19   | Monthly | 1     | $19   | 
 
 ### Biteable
 
 https://app.biteable.com/
 
-| Subscription Type | Costs | Period  |
-|-------------------|-------|---------|
-| Starter           | $15   | Monthly | 
+| Subscription Type | Costs | Period  | Units | Total|
+|-------------------|-------|---------|-------|-------|
+| Starter           | $15   | Monthly | 1     | $15   |
 
 ### Adobe Creative Suite
 
@@ -60,9 +60,9 @@ https://app.biteable.com/
 
 https://tool.animaker.com/
 
-| Subscription Type | Costs | Period  |
-|-------------------|-------|---------|
-| Free              | $0    | Monthly | 
+| Subscription Type | Costs | Period  | Units | Total|
+|-------------------|-------|---------|-------|-------|
+| Free              | $0    | Monthly | 1     | $0    |
 
 ### Character Creator
 
