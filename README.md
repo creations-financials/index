@@ -29,8 +29,11 @@ https://paperspace.com
 
 ### Linux
 
-### Linux Academy
+#### Linux Academy
 
+
+| Subscription Type       | Costs | Period  | Units | Total |
+|-------------------------|-------|---------|-------|-------|
 
 ## Application as a Service (AaaS)
 
@@ -54,7 +57,7 @@ https://app.biteable.com/
 
 #### Photoshop
 
-### After Effects
+#### After Effects
 
 ### Animaker Voice
 
