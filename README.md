@@ -78,7 +78,12 @@ https://tool.animaker.com/
 
 ### iClone
 
+iClone is the fastest and most cost-effective 3D animation software in the industry, helping you easily produce professional animations in a very short time for films, previz, animation, video games, content development, education and art.
 
-| Subscription Type | Costs | Period  | Units | Total|
-|-------------------|-------|---------|-------|-------|
+https://www.reallusion.com/store/
+
+| Purchase Type     | Costs   | Period   | Units | Total   |
+|-------------------|---------|----------|-------|---------|
+| One off           | $199.00 | Infinite | 1     | $199.00 |
+
 
