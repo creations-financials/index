@@ -8,6 +8,11 @@ Index
 
 ### Macincloud
 
+https://portalv3.macincloud.com/
+
+| Subscription Type            | Costs | Period |
+|------------------------------|-------|--------|
+| Managed Server Pay-As-You-Go | $1    | Hourly |
 
 ### Windows OS
 
