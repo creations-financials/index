@@ -16,6 +16,9 @@ Index
 
 ### Frame.io
 
+| Subscription Type | Costs | Period  |
+| Pro               | $9    | Monthly | 
+
 ### Biteable
 
 ### Adobe Creative Suite
