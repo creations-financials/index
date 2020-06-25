@@ -96,3 +96,12 @@ https://xmatters.com
 | Subscription Type | Costs | Period  | Units | Total|
 |-------------------|-------|---------|-------|-------|
 | Free              | $0    | Monthly | 1     | $0    |
+
+
+### FadeIn
+
+https://www.fadeinpro.com/
+
+| Purchase Type | Costs   | Period   | Units | Total  |
+|---------------|---------|----------|-------|--------|
+| One off       | $97.95  | Infinite | 1     | $79.95 |
