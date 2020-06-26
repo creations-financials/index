@@ -1,6 +1,7 @@
 index
-# Index
+# Creations Financials: Index
 
+![Creations Organization](https://raw.githubusercontent.com/creationsfinancials/index/master/Creations_Organization.PNG)
 
 ## Platform as a Service (PaaS)
 
