@@ -22,7 +22,14 @@ https://paperspace.com
 
 | Subscription Type       | Costs | Period  | Units | Total |
 |-------------------------|-------|---------|-------|-------|
-| Gradient 0              | $5    | Monthly | 1     | $5    |
+| Gradient 0 "1 Creation" | $5    | Monthly | 1     | $5    |
+| PSVM: Air hourly: 50 GB | $0.07 | Hourly  | ?     | $?    |
+| Snapshot: 50 GB         | $1    | Monthly | 1     | $1    |   
+| Public IP               | $3    | Monthly | 0     | $0    |
+
+| Subscription Type       | Costs | Period  | Units | Total |
+|-------------------------|-------|---------|-------|-------|
+| Gradient 0 "2 Design"   | $5    | Monthly | 1     | $5    |
 | PSVM: Air hourly: 50 GB | $0.07 | Hourly  | ?     | $?    |
 | Snapshot: 50 GB         | $1    | Monthly | 1     | $1    |   
 | Public IP               | $3    | Monthly | 1     | $3    |
